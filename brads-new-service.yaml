@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: brads-great-service
+  description: Brads Great Service
+spec:
+  type: website
+  lifecycle: production
+  owner: yeet@example.com
